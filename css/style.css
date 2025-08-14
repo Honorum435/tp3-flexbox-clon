@@ -397,6 +397,7 @@ footer {
     }
     .hero {
         height: 120px;
+    padding-top: 90px; /* Espacio para el header en móvil horizontal */
     }
     .hero h1 {
         font-size: 1rem;
